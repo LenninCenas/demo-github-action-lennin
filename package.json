@@ -1,0 +1,24 @@
+{
+  "name": "demo-github-action-lennin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LenninCenas/demo-github-action-lennin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LenninCenas/demo-github-action-lennin/issues"
+  },
+  "homepage": "https://github.com/LenninCenas/demo-github-action-lennin#readme",
+  "devDependencies": {
+    "jest": "^30.0.2"
+  }
+}
